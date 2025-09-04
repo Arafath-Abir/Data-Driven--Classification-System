@@ -1,4 +1,4 @@
-# Data Preprocessing & PCA for Income Classification
+# Data-Driven Classification System
 
 This project demonstrates a complete **data preprocessing and classification pipeline** in Python.  
 It focuses on preparing raw data, applying dimensionality reduction (PCA), and training a machine learning model to predict income categories.
